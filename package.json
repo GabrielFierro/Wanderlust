@@ -1,0 +1,12 @@
+{
+  "name": "places_and_climates",
+  "version": "1.0.0",
+  "description": "This is a project that show you the climate and the place for your input",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Fierro",
+  "license": "ISC"
+}
